@@ -41,11 +41,11 @@ body{
 
 .relogio span {
     font-weight: bolder;
-    font-size: 70px;
+    font-size: 100px;
 }
 
 .relogio span.tempo{
-    font-size: 20px;
+    font-size: 40px;
     margin-top: 50px;
 }
 
